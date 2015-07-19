@@ -1,0 +1,29 @@
+# This file exists so you can easily regenerate your project.
+#
+# Unfortunatelly cookiecutter can't use this right away so
+# you have to copy this file to ~/.cookiecutterrc
+
+default_context:
+
+    c_extension_optional:      'no'
+    c_extension_support:       'no'
+    codecov:                   'yes'
+    command_line_interface:    'plain'
+    coveralls:                 'no'
+    distribution_name:         'MultivacDDNS'
+    email:                     'diego@diegorocha.com.br'
+    full_name:                 'Diego Rocha'
+    github_username:           'diegorocha'
+    landscape:                 'no'
+    package_name:              'multivac-ddns'
+    project_name:              'MultivacDDNS'
+    project_short_description: 'A package/script to update a record on digitalocean dns to provide a ddns.'
+    release_date:              '2015-07-19'
+    repo_name:                 'multivac-ddns'
+    scrutinizer:               'no'
+    sphinx_theme:              'readthedocs'
+    test_matrix_configurator:  'no'
+    test_runner:               'pytest'
+    version:                   '0.1.0'
+    website:                   'http://diegorocha.com.br'
+    year:                      '2015'
